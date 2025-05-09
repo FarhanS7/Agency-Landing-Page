@@ -1,9 +1,9 @@
-import CheckIcon from "./Icons/CheckIcon";
-import GlobalIcon from "./Icons/GlobalIcon";
-import TransactionsIcon from "./Icons/TransactionsIcon";
-import TrustLink from "./Icons/TrustLink";
-import UptimeIcon from "./Icons/UptimeIcon";
-import UsersIcon from "./Icons/UsersIcon";
+import CheckIcon from "../Icons/CheckIcon";
+import GlobalIcon from "../Icons/GlobalIcon";
+import TransactionsIcon from "../Icons/TransactionsIcon";
+import TrustLink from "../Icons/TrustLink";
+import UptimeIcon from "../Icons/UptimeIcon";
+import UsersIcon from "../Icons/UsersIcon";
 
 export default function FeaturesSection() {
   return (
